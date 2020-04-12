@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringGitProjectApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Pull this line");
+		System.out.println("Branch2aa code changes");
 		SpringApplication.run(SpringGitProjectApplication.class, args);
 	}
 
